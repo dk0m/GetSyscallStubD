@@ -18,4 +18,4 @@ Now you can easily include it in any of your projects, Dont forget to also remov
 
 ## Acknowledgements
 
-NimGetSyscallStub by [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t/NimGetSyscallStub/), This project is based on the same idea with a few differences.
+[NimGetSyscallStub](https://github.com/S3cur3Th1sSh1t/NimGetSyscallStub/) by [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t/), This project is based on the same idea with a few differences.
